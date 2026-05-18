@@ -178,4 +178,4 @@ SELECT * FROM aluno WHERE id_aluno = 3;
 1. **Insira** pelo menos 3 alunos, 2 professores, 2 cursos e 2 turmas.
 2. **Atualize** o nome de um curso e o email de um professor.
 3. **Delete** um aluno e uma matrícula.
-4. Faça um `SELECT * FROM` para verificar os dados após cada operação.
+4. Faça um `SELECT * FROM <nome_da_tabela>` para verificar os dados após cada operação.
