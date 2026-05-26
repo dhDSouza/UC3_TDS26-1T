@@ -1,4 +1,4 @@
-# 📚 Aula 6: Chave Estrangeira (FK) e CASCADE no MySQL
+# 📚 Aula 7: Chave Estrangeira (FK) e CASCADE no MySQL
 
 ## 🧠 O que é uma Chave Estrangeira (Foreign Key)?
 
